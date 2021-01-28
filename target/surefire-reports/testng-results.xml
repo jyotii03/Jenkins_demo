@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-01-27T22:44:35 PST" name="Suite" finished-at="2021-01-27T22:44:53 PST" duration-ms="17893">
+  <suite started-at="2021-01-28T00:07:55 PST" name="Suite" finished-at="2021-01-28T00:08:14 PST" duration-ms="18612">
     <groups>
     </groups>
-    <test started-at="2021-01-27T22:44:35 PST" name="Test" finished-at="2021-01-27T22:44:53 PST" duration-ms="17893">
+    <test started-at="2021-01-28T00:07:55 PST" name="Test" finished-at="2021-01-28T00:08:14 PST" duration-ms="18612">
       <class name="com.techarch.ExtentReportDemo1.SaleForce_login">
-        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.techarch.ExtentReportDemo1.SaleForce_login@1e800aaa]" started-at="2021-01-27T22:44:35 PST" name="launchBrowser" finished-at="2021-01-27T22:44:39 PST" duration-ms="4114" status="PASS">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:com.techarch.ExtentReportDemo1.SaleForce_login@1e800aaa]" started-at="2021-01-28T00:07:55 PST" name="launchBrowser" finished-at="2021-01-28T00:07:58 PST" duration-ms="2870" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchBrowser -->
-        <test-method signature="loginToSales()[pri:0, instance:com.techarch.ExtentReportDemo1.SaleForce_login@1e800aaa]" started-at="2021-01-27T22:44:39 PST" name="loginToSales" finished-at="2021-01-27T22:44:52 PST" duration-ms="12731" status="PASS">
+        <test-method signature="loginToSales()[pri:0, instance:com.techarch.ExtentReportDemo1.SaleForce_login@1e800aaa]" started-at="2021-01-28T00:07:58 PST" name="loginToSales" finished-at="2021-01-28T00:08:13 PST" duration-ms="14692" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginToSales -->
-        <test-method is-config="true" signature="closereport()[pri:0, instance:com.techarch.ExtentReportDemo1.SaleForce_login@1e800aaa]" started-at="2021-01-27T22:44:52 PST" name="closereport" finished-at="2021-01-27T22:44:53 PST" duration-ms="1008" status="PASS">
+        <test-method is-config="true" signature="closereport()[pri:0, instance:com.techarch.ExtentReportDemo1.SaleForce_login@1e800aaa]" started-at="2021-01-28T00:08:13 PST" name="closereport" finished-at="2021-01-28T00:08:14 PST" duration-ms="986" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- closereport -->

@@ -13,10 +13,10 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-import org.testng.Assert;
-import org.testng.annotations.AfterClass;
+
+
 import org.testng.annotations.BeforeTest;
-import org.testng.annotations.Test;
+
 
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
@@ -30,7 +30,7 @@ public class SaleForce_login {
 	public static WebDriver driver;
 	public static ExtentHtmlReporter report;
 	public static ExtentReports extent;
-	static String dateformat = new SimpleDateFormat("yy/MM/dd/HH-mm-ss").format(new Date());
+	static String dateformat = new SimpleDateFormat("yyMMddHHmmss").format(new Date());
 	
 	@BeforeTest
  static void launchBrowser() throws Exception{
